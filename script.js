@@ -68,7 +68,7 @@ navLinks.querySelectorAll("a").forEach(link => {
 });
 
 // TYPING ANIMATION
-const phrases = ["Computer Science Student"];
+const phrases = ["Information Technology Student"];
 const typing = document.getElementById("typing");
 
 let phraseIndex = 0;
